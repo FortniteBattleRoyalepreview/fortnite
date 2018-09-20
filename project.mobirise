@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "name": "Site-09-18_0258",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#9df25e",
+        "#c517d6",
+        "#ff0505"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.3",
+    "uniqCompNum": 5,
+    "versionPublish": "4.6.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/l1sfmbq-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Fortnite Battle Royale Hack Generator",
+          "text": "Generate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind generator tool and never lose a single game again.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"http://99882.freevbuckx.com\" data-toolbar=\"-mbrBtnMove\">Get Your V-Bucks Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H1": {
+              "font-size": "24px",
+              "color": "#f7da64"
+            },
+            "P": {
+              "color": "#9df25e"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
